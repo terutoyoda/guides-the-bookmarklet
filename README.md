@@ -14,8 +14,15 @@ Guides the Bookmarklet is a bookmarklet designed for drawing guide lines on any 
 
 ## Installation
 
-1. Right-click this link and select "Add to bookmarks": [Guides the Bookmarklet](javascript:(function() {...})())
-2. Click the bookmark added to your bookmark bar to activate it.
+To install the Guides the Bookmarklet, follow these steps:
+
+1. Open the link to the bookmarklet code here: [guides-the-bookmarklet.js](https://raw.githubusercontent.com/terutoyoda/guides-the-bookmarklet/master/guides-the-bookmarklet.js).
+2. Select and copy the entire JavaScript code.
+3. Create a new bookmark in your browser.
+4. Name the bookmark as you like, e.g., "Guides the Bookmarklet".
+5. Paste the copied JavaScript code into the URL or Location field of the bookmark.
+6. Save the bookmark.
+To use the bookmarklet, simply click on it while viewing any webpage where you want to draw guides.
 
 ## How to Use
 

@@ -12,8 +12,15 @@ Guides the Bookmarkletは、任意のウェブページでGuideの線を描画�
 
 ## インストール
 
-1. このリンクを右クリックして「ブックマークに追加」を選択: [Guides the Bookmarklet](javascript:(function() {...})())
-2. ブックマークバーに追加されたブックマークをクリックしてアクティブにします。
+Guide the Bookmarkletをインストールするには、以下の手順に従ってください：
+
+1. ブックマークレットコードへのリンクを開く： [guides-the-bookmarklet.js](https://raw.githubusercontent.com/terutoyoda/guides-the-bookmarklet/master/guides-the-bookmarklet.js).
+2. 2.JavaScriptコード全体を選択してコピーします。
+3. ブラウザで新しいブックマークを作成する。
+4. ブックマークに好きな名前をつけます（例：「Guides the Bookmarklet」）。
+5. コピーしたJavaScriptコードをブックマークのURLまたはLocationフィールドに貼り付けます。
+6. ブックマークを保存します。
+ブックマークレットを使用するには、ガイドを描きたいウェブページを表示しているときにブックマークレットをクリックするだけです。
 
 ## 使い方
 
