@@ -1,6 +1,9 @@
 # Guides the Bookmarklet
 
+<img src="./logo.png" alt="Guides the Bookmarklet" width="200"/><br>
 Guides the Bookmarkletは、任意のウェブページでGuideの線を描画するためのブックマークレットです。このブックマークレットを使用すると、マウスのクリック操作だけでウェブページ上に直線のGuideを描画できます。
+
+<img src="./movie.gif" alt="" width="600"/>
 
 ## 機能
 

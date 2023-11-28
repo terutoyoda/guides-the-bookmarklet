@@ -1,8 +1,11 @@
 # Guides the Bookmarklet
 
+<img src="./logo.png" alt="Guides the Bookmarklet" width="200"/><br>
 [日本語版はこちら](./README_ja.md)
 
 Guides the Bookmarklet is a bookmarklet designed for drawing guide lines on any web page. With this bookmarklet, you can easily draw straight line guides on a web page using simple mouse clicks.
+
+<img src="./movie.gif" alt="" width="600"/>
 
 ## Features
 
