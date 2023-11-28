@@ -42,4 +42,4 @@ Guide the Bookmarkletをインストールするには、以下の手順に従�
 ##  Buy Me a Coffeeでサポート
 https://www.buymeacoffee.com/terutoyoda
 
-© 2023 TERU Inc. All rights reserved.
+Copyright (c) 2023 TERU Inc.

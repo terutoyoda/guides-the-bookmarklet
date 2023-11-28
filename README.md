@@ -44,4 +44,4 @@ To use the bookmarklet, simply click on it while viewing any webpage where you w
 ## Support on Buy Me a Coffee
 https://www.buymeacoffee.com/terutoyoda
 
-© 2023 TERU Inc. All rights reserved.
+Copyright (c) 2023 TERU Inc.
